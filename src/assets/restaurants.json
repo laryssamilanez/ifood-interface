@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Pizzaria Giancarlo",
+    "description": "Pizzaria Giancarlo. Aqui você encontra a melhor pizza da região, preparada em forno a lenha. Experimente!",
+    "category": "Pizza",
+    "distance": "0.99",
+    "deliveryPrice": "10,00",
+    "deliveryTime": "50-60 min",
+    "rating": "4.7",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201910072004_7f94f624-f1dd-4e90-a3b8-d0fcb69c8622.jpg",
+    "plates": [1, 2, 3]
+  },
+  {
+    "name": "Marmitas Joana",
+    "description": "Marmitas Joana. Aqui você encontra a melhor marmita da região, preparada em forno a lenha. Experimente!",
+    "category": "Marmitas",
+    "distance": "0.90",
+    "deliveryTime": "40-60 min",
+    "rating": "3.0",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201910071459_0c0ddd2e-8c60-4397-b448-214eaad115f3.jpg",
+    "plates": [6, 7]
+  },
+  {
+    "name": "Açaí concept",
+    "description": "Venham comer açaí",
+    "category": "Açaí",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/3735a77e-042a-4f99-954a-ab64333fdf87/202002261622_rg0g_.jpeg",
+    "plates": [14]
+  },
+  {
+    "name": "Lanches do João",
+    "description": "Lanches do João, é isso aí brother",
+    "category": "Lanches",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201911181901_0889c3d5-b8ea-455a-8be7-0a2c4912e653.jpg",
+    "plates": [5, 6]
+  },
+  {
+    "name": "Habibs",
+    "description": "Habibs. Venha comer bibsfiga!",
+    "category": "Lanches",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201801241022__HABIB_ADEMA.jpg",
+    "plates": [3, 4]
+  },
+  {
+    "name": "Mineiro delivery",
+    "description": "Mineiro delivery. Venha comer bibsfiga!",
+    "category": "Brasileira",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/201808191851_a672655a-4c11-4d87-8a6e-1fd45ca8144d.jpg",
+    "plates": [12, 13]
+  },
+  {
+    "name": "Cacau Show",
+    "description": "Cacau show. Venha comer bibsfiga!",
+    "category": "Doces",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/2427608d-2240-4c37-990c-0de1fec3fc81_CACAU_AANCH.png",
+    "plates": [7, 6]
+  },
+  {
+    "name": "China in Box",
+    "description": "China in Box o maior delivery de comida chinesa entrega pratos feitos na hora do seu pedido, na caixinha mais conhecida do Brasil. Pratos tradicionais como yakissoba, frango xadrez, rolinho primavera e banana caramelada para pedir on-line. Peça agora",
+    "category": "Chinesa",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/f79cf3bd-eb11-470e-8b9e-bbc5ca309a9c/202001031336_MeBZ_i.png",
+    "plates": [8, 9]
+  },
+  {
+    "name": "Comidaria Vegan",
+    "description": "Lanches e refeições 100% veganas e artesanais. Preparados com muito amor e dedicação para proporcionar sempre uma deliciosa experiência para os nossos clientes!!!",
+    "category": "Vegetariana",
+    "distance": "8.90",
+    "deliveryTime": "60-120 min",
+    "rating": "4.1",
+    "ratingQuantity": "300",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/0cf469bd-6ba3-4e48-ba83-dd46650c9e50/202003281349_5qXP_i.jpg",
+    "plates": [10, 11]
+  },
+  {
+    "name": "Toshyo Sushi",
+    "description": "sushi ,japonesa ,yakissoba ,oriental ,japa, SUSHI TOSHYO",
+    "category": "Japonesa",
+    "distance": "8.90",
+    "deliveryTime": "30-60 min",
+    "rating": "4.1",
+    "ratingQuantity": "20",
+    "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_thumbnail/logosgde/9fcebd67-6537-4097-9ea9-762ac20ccebc/202005061331_0pGy_i.jpg",
+    "plates": [8, 9]
+  }
+]

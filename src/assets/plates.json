@@ -1,0 +1,106 @@
+[{
+        "name": "Pizza calabresa acebolada",
+        "description": "Massa tradicional, coberta com nosso especial molho de tomate. Finalizado com o recheio de qualidade.",
+        "price": "35,80",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/a626c511-3098-4ccc-a18d-79c203d5a5fe/201909251756_3G5I_p.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb6e"
+    },
+    {
+        "name": "Pizza grande bauru",
+        "description": "Massa tradicional, bauru (mussarela quentinha, presunto e tomate)",
+        "price": "35,80",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/a626c511-3098-4ccc-a18d-79c203d5a5fe/201907171032_p8Oi_p.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb6e"
+    },
+    {
+        "name": "Beirute catarina + fritas",
+        "description": "Lombo ,Catupiry,maionese ,tomate e cebola + batata + mussarela",
+        "price": "35,80",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/a626c511-3098-4ccc-a18d-79c203d5a5fe/202005151123_VKr8_c.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb6e"
+    },
+    {
+        "name": "Esfiha atum",
+        "description": "Esfiha de Atum aberta de 15 cm",
+        "price": "10,50",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/a626c511-3098-4ccc-a18d-79c203d5a5fe/202004241938_dfTc_.jpeg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb72"
+    },
+    {
+        "name": "Hambúrguer acebolado",
+        "description": "Hamburguer com 120 gramas de carne bovina, queijo, tomate, rodelas de cebola feito na chapa(deixando aquele gostinho do bife acebolado) e molho especial!",
+        "price": "10,50",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/f81e8cb8-6f4a-47ac-93cb-86138e54e101/202002112015_qx3V_p.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb71"
+    },
+    {
+        "name": "Super X-tudo",
+        "description": "Pão de hamburguer grande, 180 gramas de hamburguer de carne nobre, queijo, cheddar,maionese, bacon, ovo, calabresa, tomate, alface, cebola e molho especial. É um super lanche! Come 2 pessoas",
+        "price": "10,50",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/f81e8cb8-6f4a-47ac-93cb-86138e54e101/201907172320_6Gkr_c.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb6f"
+    },
+    {
+        "name": "Cesta de chocolates sortidos cacau show p2",
+        "description": "Esta linda cesta de chocolates sortidos cacau show contém 10 itens",
+        "price": "10,50",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/c73f8071-e511-462a-adc4-895719c85960/202005161558_ANih_.jpeg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb6f"
+    },
+    {
+        "name": "Cesta de chocolates sortidos cacau show p2",
+        "description": "Esta linda cesta de chocolates sortidos cacau show contém 10 itens",
+        "price": "10,50",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/c73f8071-e511-462a-adc4-895719c85960/202005161558_ANih_.jpeg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb74"
+    },
+    {
+        "name": "Combinado salmão 3 pessoas 46 unidades",
+        "description": "16 sashimi, 6 sushis, 6 uramaki filadéfia, 4 uramaki salmão, 3 jow, 3 sushi skin, 8 hossomakis.",
+        "price": "100,50",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/9fcebd67-6537-4097-9ea9-762ac20ccebc/202005051757_dKEB_c.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb77"
+    },
+    {
+        "name": "Combinado salmão 2 pessoas 34 unidades",
+        "description": "12 sashimi, 8 sushis, 4 uramaki de salmão, jow, 2 sushi skin, 6 hossomakis, 2 hot rolls simples.",
+        "price": "88,90",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/9fcebd67-6537-4097-9ea9-762ac20ccebc/202005051757_dKEB_c.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb77"
+    },
+    {
+        "name": "Grão de bico burger",
+        "description": "Hambúrguer de grão de bico de 120g, molho especial de alho, alface crespa, molho de tomate fresco no pão vegano",
+        "price": "20,90",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/0cf469bd-6ba3-4e48-ba83-dd46650c9e50/202003312011_Kzyw_.jpeg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb76"
+    },
+    {
+        "name": "Shimeji burger",
+        "description": "Hambúrguer de shimeji com abobora de 120g, alface crespa, molho de tomate fresco e cebola caramelizada no pão vegano.",
+        "price": "20,90",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/0cf469bd-6ba3-4e48-ba83-dd46650c9e50/202004101814_65f6_2.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb76"
+    },
+    {
+        "name": "Do mato com Frango",
+        "description": "Peito de frango em cubos, alface, rúcula, ervilha, milho, cenoura e tomate.",
+        "price": "20,90",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/54a9ef34-3c82-49e6-b251-0fc91ab36e5a/201806130953_45123284.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb73"
+    },
+    {
+        "name": "Tropeiro",
+        "description": "Mexido mineiro de linguiça suína, arroz, feijão, ovo, cebola, bacon, farofa e couve. Padrão mexido mineiro",
+        "price": "16,90",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/54a9ef34-3c82-49e6-b251-0fc91ab36e5a/201806131002_45122889.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb73"
+    },
+    {
+        "name": "Copo 180ml",
+        "description": "1- escolha creme ou açai 2- acompanhamentos e frutas 3- creme ou açai. Obs : a quantidade de acompanhamentos ou frutas não altera o valor final",
+        "price": "10,90",
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/b16030ce-ce78-4616-aeb6-b2ae5362ece8/201906031422_Af3b_5.jpg",
+        "restaurantId": "5f0bc51a6e8d0ccce466eb70"
+    }
+]
